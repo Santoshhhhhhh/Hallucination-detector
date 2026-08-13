@@ -4,7 +4,6 @@ scikit-learn>=1.3
 joblib>=1.3
 pyyaml>=6.0
 
-# Real 3B-model backend (optional; not needed for the mock backend / tests)
 # torch>=2.1
 # transformers>=4.44
 # accelerate>=0.30
